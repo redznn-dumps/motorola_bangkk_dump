@@ -1,0 +1,14 @@
+# user 13 T3TC33.18-48-6 5dba7 release-keys
+- manufacturer: motorola
+- platform: holi
+- codename: bangkk
+- flavor: user
+- release: 13
+- id: T3TC33.18-48-6
+- incremental: 5dba7
+- tags: release-keys
+- fingerprint: motorola/bangkk_g/bangkk:11/T3TC33.18-48-6/5dba7:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-13-T3TC33.18-48-6-5dba7-release-keys
+- repo: motorola_bangkk_dump
